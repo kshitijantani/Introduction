@@ -1,0 +1,8 @@
+Person3:
+Name :- 3_KshitijAntani
+Which field of IT (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-  Machine Learning
+Why did you choose this field (at least 100 chars)?
+Answer : I choose this field because I found it interesting and I have also worked on some basic of ML and DL. I have done some projects on ML as well. Working with data and logics for the same is what made me choose this field. 
+Where do you want to yourself in 5 years?
+Answer : I will grow myself in this field and will have stable job somehwere in developed country.
+
