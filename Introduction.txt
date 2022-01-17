@@ -1,0 +1,12 @@
+Name :- Pravin Chaudhary
+Which field of IT are you interested in (backend, AI-AR, BA, QA, Web Designer, etc... ):-
+Why did you choose this field (at least 100 chars)?
+Answer :
+In this dynamic world where everything changes at a rapid rate, the popularity of Python never seems to cease. Today, Python Certification is one of the most sought-after skills in the entire programming domain. But have you ever wondered if it is really worth it? If yes, where can it take you? Apart from these, there are few other questions which might be bothering you. In this article, I would be answering all such questions regarding Python Career Opportunities and the growth it gifts you.
+
+Python, as a programming language is easy and simple to learn. Python cuts development time in half with its simple to read syntax and easy compilation feature. Also, it has plenty of libraries that support data analysis, manipulation and visualization. Therefore, it has evolved as the most preferred language and considered to be the “Next Big Thing” and a “Must” for Professionals. Today, we will discuss various Python career opportunities available for a Python programmer
+Where do you want to yourself in 5 years?
+Answer:
+Python is the in-demand programming language that is now widely used by developers. It has come out as a promising field for professionals to explore with the increased demand for Python. The high-level programming language is gaining popularity due to its accessibility and simple syntax. However, many believe that being a Python developer is the only opportunity that is available for professionals.
+The major responsibility of the product manager is to understand the behaviour of the audience and make informed decisions. They work on defining the strategy, vision, and roadmap of the product, and act as the advocate customer to make the purchase. They can use the Python programming language to work closely with the development and data team and understand the data sets.
+Add, commit and push code from the local machine. Work together.
