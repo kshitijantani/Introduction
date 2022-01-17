@@ -1,14 +1,64 @@
-<<<<<<< HEAD
+Team 2:
+
+Person1:
+
+Name:Dhruvi Trivedi
+
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-I am intrested in Backend and Quality Analysis.
+
+Why did you choose this field (at least 100 chars)?
+Answer :I have worked on these domains before.
+
+Where do you want to yourself in 5 years?
+Answer:I see myself as a head in any of these field.
+
+---------------------------------------------------------------------------------------------------
+
 Person2:
+
 Name :- Komal Papaniya
+
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):- AI-AR
+
 Why did you choose this field (at least 100 chars)?
 Answer : I selected this field because I have interest and some basic knowledge about ML, AI and AR. Also, I possess strong mathematical and logical skills.
+
 Where do you want to yourself in 5 years?
 Answer: Working at a well reputed IT company at senior position.
-=======
-=======
-<<<<<<< HEAD
+
+----------------------------------------------------------------------------------------------------
+
+Person3:
+Name :- 3_KshitijAntani
+
+Which field of IT (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-  Machine Learning
+
+Why did you choose this field (at least 100 chars)?
+Answer : I choose this field because I found it interesting and I have also worked on some basic of ML and DL. I have done some projects on ML as well. Working with data and logics for the same is what made me choose this field. 
+
+Where do you want to yourself in 5 years?
+Answer : I will grow myself in this field and will have stable job somehwere in developed country.
+
+-----------------------------------------------------------------------------------------------------
+
+Person4:
+
+Name :- Pravin Chaudhary
+
+Which field of IT are you interested in (backend, AI-AR, BA, QA, Web Designer, etc... ):-
+
+Why did you choose this field (at least 100 chars)?
+Answer :
+In this dynamic world where everything changes at a rapid rate, the popularity of Python never seems to cease. Today, Python Certification is one of the most sought-after skills in the entire programming domain. But have you ever wondered if it is really worth it? If yes, where can it take you? Apart from these, there are few other questions which might be bothering you. In this article, I would be answering all such questions regarding Python Career Opportunities and the growth it gifts you.
+Python, as a programming language is easy and simple to learn. Python cuts development time in half with its simple to read syntax and easy compilation feature. Also, it has plenty of libraries that support data analysis, manipulation and visualization. Therefore, it has evolved as the most preferred language and considered to be the “Next Big Thing” and a “Must” for Professionals. Today, we will discuss various Python career opportunities available for a Python programmer
+
+Where do you want to yourself in 5 years?
+Answer:
+Python is the in-demand programming language that is now widely used by developers. It has come out as a promising field for professionals to explore with the increased demand for Python. The high-level programming language is gaining popularity due to its accessibility and simple syntax. However, many believe that being a Python developer is the only opportunity that is available for professionals.
+The major responsibility of the product manager is to understand the behaviour of the audience and make informed decisions. They work on defining the strategy, vision, and roadmap of the product, and act as the advocate customer to make the purchase. They can use the Python programming language to work closely with the development and data team and understand the data sets.
+Add, commit and push code from the local machine. Work together.
+
+----------------------------------------------------------------------------------------------------
 Person5:
 
 Name: Vaibhav Mehta
@@ -21,41 +71,12 @@ Answer: I chose this field because I was good at the front-end skills and also w
 
 Where do you want to yourself in 5 years?
 Answer: I want to grasp solid technical skills in the Front-end and want to acheive the Senior Post in the Department, would like to gain more Experience in my Field. 
-=======
-<<<<<<< HEAD
->>>>>>> 5dea9a105ec95bcc107a68ac299e4d36f2976550
-Name:Dhruvi Trivedi
-Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-I am intrested in Backend and Quality Analysis.
-Why did you choose this field (at least 100 chars)?
-Answer :I have worked on these domains before.
-Where do you want to yourself in 5 years?
-Answer:I see myself as a head in any of these field.
-=======
-Person4:
-Name :- Pravin Chaudhary
-Which field of IT are you interested in (backend, AI-AR, BA, QA, Web Designer, etc... ):-
-Why did you choose this field (at least 100 chars)?
-Answer :
-In this dynamic world where everything changes at a rapid rate, the popularity of Python never seems to cease. Today, Python Certification is one of the most sought-after skills in the entire programming domain. But have you ever wondered if it is really worth it? If yes, where can it take you? Apart from these, there are few other questions which might be bothering you. In this article, I would be answering all such questions regarding Python Career Opportunities and the growth it gifts you.
 
-Python, as a programming language is easy and simple to learn. Python cuts development time in half with its simple to read syntax and easy compilation feature. Also, it has plenty of libraries that support data analysis, manipulation and visualization. Therefore, it has evolved as the most preferred language and considered to be the “Next Big Thing” and a “Must” for Professionals. Today, we will discuss various Python career opportunities available for a Python programmer
-Where do you want to yourself in 5 years?
-Answer:
-Python is the in-demand programming language that is now widely used by developers. It has come out as a promising field for professionals to explore with the increased demand for Python. The high-level programming language is gaining popularity due to its accessibility and simple syntax. However, many believe that being a Python developer is the only opportunity that is available for professionals.
-The major responsibility of the product manager is to understand the behaviour of the audience and make informed decisions. They work on defining the strategy, vision, and roadmap of the product, and act as the advocate customer to make the purchase. They can use the Python programming language to work closely with the development and data team and understand the data sets.
-Add, commit and push code from the local machine. Work together.
 
-Person3:
-Name :- 3_KshitijAntani
-Which field of IT (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-  Machine Learning
-Why did you choose this field (at least 100 chars)?
-Answer : I choose this field because I found it interesting and I have also worked on some basic of ML and DL. I have done some projects on ML as well. Working with data and logics for the same is what made me choose this field. 
-Where do you want to yourself in 5 years?
-<<<<<<< HEAD
-Answer : I will grow myself in this field and will have stable job somehwere in developed country.
-=======
-Answer : I will grow myself in this field and will have stable job somehwere in developed country.
 
->>>>>>> 3218c86dbdeabd4296b4a2d97f0913b7b0e04a23
->>>>>>> e3de19da2b057f48aa923b2d1ab400e1504a36a0
->>>>>>> 5dea9a105ec95bcc107a68ac299e4d36f2976550
+
+
+
+
+
+
