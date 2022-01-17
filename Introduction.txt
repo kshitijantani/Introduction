@@ -1,0 +1,7 @@
+Person2:
+Name :- Komal Papaniya
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):- AI-AR
+Why did you choose this field (at least 100 chars)?
+Answer : I selected this field because I have interest and some basic knowledge about ML, AI and AR. Also, I possess strong mathematical and logical skills.
+Where do you want to yourself in 5 years?
+Answer: Working at a well reputed IT company at senior position.
