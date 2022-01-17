@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Person2:
 Name :- Komal Papaniya
 Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer,etc... ):- AI-AR
@@ -6,6 +5,13 @@ Why did you choose this field (at least 100 chars)?
 Answer : I selected this field because I have interest and some basic knowledge about ML, AI and AR. Also, I possess strong mathematical and logical skills.
 Where do you want to yourself in 5 years?
 Answer: Working at a well reputed IT company at senior position.
+=======
+Name:Dhruvi Trivedi
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):-I am intrested in Backend and Quality Analysis.
+Why did you choose this field (at least 100 chars)?
+Answer :I have worked on these domains before.
+Where do you want to yourself in 5 years?
+Answer:I see myself as a head in any of these field.
 =======
 Name :- Pravin Chaudhary
 Which field of IT are you interested in (backend, AI-AR, BA, QA, Web Designer, etc... ):-
@@ -27,5 +33,3 @@ Why did you choose this field (at least 100 chars)?
 Answer : I choose this field because I found it interesting and I have also worked on some basic of ML and DL. I have done some projects on ML as well. Working with data and logics for the same is what made me choose this field. 
 Where do you want to yourself in 5 years?
 Answer : I will grow myself in this field and will have stable job somehwere in developed country.
-
->>>>>>> 3218c86dbdeabd4296b4a2d97f0913b7b0e04a23
